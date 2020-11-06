@@ -6,7 +6,7 @@ AllCops:
   DisplayCopNames: true
 
 Layout/LineLength:
-  Max: 120
+  Max: 200
 Metrics/MethodLength:
   Max: 500
 Metrics/AbcSize:
@@ -53,3 +53,7 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
+Style/StringLiteralsInInterpolation:
+  Enabled: false 
+Style/StringLiterals:
+  Enabled: false 
