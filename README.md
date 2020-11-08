@@ -22,9 +22,10 @@ To get this project up and running locally, you must already have ruby and neces
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/El-Potato-Slayer/active-record
-4. Run ```active_record```.
+3. Run ```git clone https://github.com/El-Potato-Slayer/active-record.git```.
+4. Run ```cd active_record```.
 5. Run ```bundle install``` to get the necesary gems.
+6. Run ```yarn install```.
 6. Run `rails db:migrate`.
 
 
@@ -41,6 +42,7 @@ To get this project up and running locally, you must already have ruby and neces
 
 - Github:[@El-Potato-Slayer](https://github.com/El-Potato-Slayer)
 - Twitter:[@elpotatoslayer](https://twitter.com/elpotatoslayer)
+- LinkedIn: [Chad van Wyk](https://www.linkedin.com/in/chad-van-wyk-4228b21a6/)
 
 ## Acknowledgment
 The resources we have used to develop our project:
@@ -51,20 +53,8 @@ The resources we have used to develop our project:
 
 ## Show your support
 
-Give ⭐ Star me on GitHub — it helps!
+Give ⭐ to me on GitHub — it helps!
 
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.  
-
-
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
